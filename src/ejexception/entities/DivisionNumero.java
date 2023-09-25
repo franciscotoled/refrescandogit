@@ -30,6 +30,7 @@ public class DivisionNumero {
         }
         catch(ArithmeticException r)
         {
+            System.out.println("hola");
            throw r; 
         }
         
